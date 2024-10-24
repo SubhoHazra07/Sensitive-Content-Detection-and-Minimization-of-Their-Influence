@@ -1,0 +1,2 @@
+# Sensitive-Content-Detection-and-Minimization-of-Their-Influence
+This repository uses AI techniques, including Convolutional Neural Networks (CNNs) and Natural Language Processing (NLP), to detect and minimize sensitive content on social media. It helps identify personal documents in images and text, enhancing privacy protection and raising awareness of online risks related to sharing sensitive information.
