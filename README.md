@@ -86,7 +86,11 @@ The following steps outline the methodology adopted for this project:
     ```bash
     pip install -r requirements.txt
     ```
-
+    
+## Dataset and Model
+- **Access Dataset and Pre-trained Models**: You can download the dataset and pre-trained models required for running this project from the following [Google Drive link](https://drive.google.com/drive/folders/1gDxSiHoHCp5by_OlUYqoGZAdZoX4LI9U?usp=drive_link).
+- After downloading, place the dataset and model files in the respective `/data` and `/models` directories within the project.
+  
 ## How to Use
 1. **Data Upload**: Upload images or text to be analyzed for sensitive content.
 2. **Run Models**: Execute the image and text classification scripts to get predictions on whether the content is sensitive.
